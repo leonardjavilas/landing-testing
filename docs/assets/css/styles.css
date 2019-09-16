@@ -156,7 +156,8 @@ body {
       @media (min-width: 0px) and (max-width: 575px) {
         .about__image .image {
           left: 0;
-          height: 200px; } }
+          height: 200px;
+          background-repeat: no-repeat; } }
       @media (min-width: 576px) and (max-width: 767px) {
         .about__image .image {
           left: 5; } }
