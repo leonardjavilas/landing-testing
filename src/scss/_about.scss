@@ -63,7 +63,8 @@
         left: 0;
         height: 200px;
         background-repeat: no-repeat;
-        background-size: 100%;
+        background-size: cover;
+        background-position: top center;
       }  
       @include respond-to(sm){
         left: 5;
